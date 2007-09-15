@@ -3,7 +3,7 @@
 
 Name:           xmlwriter
 Version:        1.2.2
-Release:        %mkrel 0.0.1
+Release:        %mkrel 0.0.2
 Epoch:          0
 Summary:        org.freecompany.util
 License:        MIT
@@ -22,8 +22,6 @@ BuildRequires:  junit
 BuildRequires:  util-multicaster
 BuildRequires:  util-xml-dom2sax
 %if %{gcj_support}
-Requires(post): java-gcj-compat
-Requires(postun): java-gcj-compat
 BuildRequires:  java-gcj-compat-devel
 %else
 BuildRequires:  java-devel
