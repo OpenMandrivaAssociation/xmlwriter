@@ -3,7 +3,7 @@
 
 Name:           xmlwriter
 Version:        1.2.2
-Release:        %mkrel 0.0.3
+Release:        %mkrel 0.0.4
 Epoch:          0
 Summary:        org.freecompany.util
 License:        MIT
