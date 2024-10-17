@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        org.freecompany.util
 License:        MIT
 Group:          Development/Java
-URL:            http://www.freecompany.org/
+URL:            https://www.freecompany.org/
 # svn export https://svn.freecompany.org/public/util/tags/xmlwriter-1.2.2
 # zip -9r xmlwriter-src-1.2.2.zip xmlwriter-1.2.2
 Source0:        http://repository.freecompany.org/org/freecompany/xmlwriter/zips/xmlwriter-src-%{version}.zip
